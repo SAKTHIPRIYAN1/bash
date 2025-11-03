@@ -10,4 +10,4 @@ Here is a list of the utility scripts included in this repository:
 * **`ChangeCamera.sh` / `change_camera.sh`**: Scripts to manage or switch between connected video camera devices (e.g., a built-in laptop webcam and an external USB camera).
 * **`bluetooth.sh`**: A helper script for managing Bluetooth connections or devices.
 * **`file_creation_shortcut.sh`**: A quick utility to create new files, possibly from templates.
-* **`gui.sh`**: A script for launching or managing GUI-related tasks or applications.
+* **`gui.sh`**: A script for launching GUI at a specific Location through terminal
